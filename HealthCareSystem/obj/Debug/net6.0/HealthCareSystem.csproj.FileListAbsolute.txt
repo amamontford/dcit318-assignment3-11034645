@@ -1,0 +1,15 @@
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\bin\Debug\net6.0\HealthCareSystem.exe
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\bin\Debug\net6.0\HealthCareSystem.deps.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\bin\Debug\net6.0\HealthCareSystem.runtimeconfig.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\bin\Debug\net6.0\HealthCareSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\bin\Debug\net6.0\HealthCareSystem.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\obj\Debug\net6.0\HealthCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\obj\Debug\net6.0\HealthCareSystem.AssemblyInfoInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\obj\Debug\net6.0\HealthCareSystem.AssemblyInfo.cs
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\obj\Debug\net6.0\HealthCareSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\obj\Debug\net6.0\HealthCareSystem.sourcelink.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\obj\Debug\net6.0\HealthCareSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\obj\Debug\net6.0\refint\HealthCareSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\obj\Debug\net6.0\HealthCareSystem.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\obj\Debug\net6.0\HealthCareSystem.genruntimeconfig.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\HealthCareSystem\obj\Debug\net6.0\ref\HealthCareSystem.dll
