@@ -1,0 +1,15 @@
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\bin\Debug\net6.0\FinanceManagementSystem.exe
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\bin\Debug\net6.0\FinanceManagementSystem.deps.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\bin\Debug\net6.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\bin\Debug\net6.0\FinanceManagementSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\bin\Debug\net6.0\FinanceManagementSystem.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\obj\Debug\net6.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\obj\Debug\net6.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\obj\Debug\net6.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\obj\Debug\net6.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\obj\Debug\net6.0\FinanceManagementSystem.sourcelink.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\obj\Debug\net6.0\FinanceManagementSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\obj\Debug\net6.0\refint\FinanceManagementSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\obj\Debug\net6.0\FinanceManagementSystem.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\obj\Debug\net6.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\FinanceManagementSystem\obj\Debug\net6.0\ref\FinanceManagementSystem.dll
