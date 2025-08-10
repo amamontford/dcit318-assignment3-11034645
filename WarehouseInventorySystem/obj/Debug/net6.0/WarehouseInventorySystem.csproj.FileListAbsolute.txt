@@ -1,0 +1,15 @@
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\bin\Debug\net6.0\WarehouseInventorySystem.exe
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\bin\Debug\net6.0\WarehouseInventorySystem.deps.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\bin\Debug\net6.0\WarehouseInventorySystem.runtimeconfig.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\bin\Debug\net6.0\WarehouseInventorySystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\bin\Debug\net6.0\WarehouseInventorySystem.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\obj\Debug\net6.0\WarehouseInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\obj\Debug\net6.0\WarehouseInventorySystem.AssemblyInfoInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\obj\Debug\net6.0\WarehouseInventorySystem.AssemblyInfo.cs
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\obj\Debug\net6.0\WarehouseInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\obj\Debug\net6.0\WarehouseInventorySystem.sourcelink.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\obj\Debug\net6.0\WarehouseInventorySystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\obj\Debug\net6.0\refint\WarehouseInventorySystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\obj\Debug\net6.0\WarehouseInventorySystem.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\obj\Debug\net6.0\WarehouseInventorySystem.genruntimeconfig.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\WarehouseInventorySystem\obj\Debug\net6.0\ref\WarehouseInventorySystem.dll
