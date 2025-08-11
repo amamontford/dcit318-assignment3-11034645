@@ -1,0 +1,15 @@
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\bin\Debug\net6.0\SchoolGradingSystem.exe
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\bin\Debug\net6.0\SchoolGradingSystem.deps.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\bin\Debug\net6.0\SchoolGradingSystem.runtimeconfig.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\bin\Debug\net6.0\SchoolGradingSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\bin\Debug\net6.0\SchoolGradingSystem.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\obj\Debug\net6.0\SchoolGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\obj\Debug\net6.0\SchoolGradingSystem.AssemblyInfoInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\obj\Debug\net6.0\SchoolGradingSystem.AssemblyInfo.cs
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\obj\Debug\net6.0\SchoolGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\obj\Debug\net6.0\SchoolGradingSystem.sourcelink.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\obj\Debug\net6.0\SchoolGradingSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\obj\Debug\net6.0\refint\SchoolGradingSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\obj\Debug\net6.0\SchoolGradingSystem.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\obj\Debug\net6.0\SchoolGradingSystem.genruntimeconfig.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\SchoolGradingSystem\obj\Debug\net6.0\ref\SchoolGradingSystem.dll

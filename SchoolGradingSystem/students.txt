@@ -1,0 +1,6 @@
+101,Christian Agyapong,72
+102,Ama Montford,95
+103,Enoch Owusu,65
+104,Benedict Wiafe,45
+105,Marian Ofori,78
+106,Gideon Asare,82
