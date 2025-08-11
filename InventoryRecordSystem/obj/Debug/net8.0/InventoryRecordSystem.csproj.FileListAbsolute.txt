@@ -1,0 +1,15 @@
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\bin\Debug\net8.0\InventoryRecordSystem.exe
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\bin\Debug\net8.0\InventoryRecordSystem.deps.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\bin\Debug\net8.0\InventoryRecordSystem.runtimeconfig.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\bin\Debug\net8.0\InventoryRecordSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\bin\Debug\net8.0\InventoryRecordSystem.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\obj\Debug\net8.0\InventoryRecordSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\obj\Debug\net8.0\InventoryRecordSystem.AssemblyInfoInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\obj\Debug\net8.0\InventoryRecordSystem.AssemblyInfo.cs
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\obj\Debug\net8.0\InventoryRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\obj\Debug\net8.0\InventoryRecordSystem.sourcelink.json
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\obj\Debug\net8.0\InventoryRecordSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\obj\Debug\net8.0\refint\InventoryRecordSystem.dll
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\obj\Debug\net8.0\InventoryRecordSystem.pdb
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\obj\Debug\net8.0\InventoryRecordSystem.genruntimeconfig.cache
+C:\Users\Ama Addae Montford\Desktop\dcit318-assignment3-11034645\InventoryRecordSystem\obj\Debug\net8.0\ref\InventoryRecordSystem.dll

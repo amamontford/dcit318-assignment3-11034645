@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-11T20:35:48.3078199+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Smartphone",
+    "Quantity": 25,
+    "DateAdded": "2025-08-11T20:35:48.3128289+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Monitor",
+    "Quantity": 15,
+    "DateAdded": "2025-08-11T20:35:48.3128319+00:00"
+  }
+]
